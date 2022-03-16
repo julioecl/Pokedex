@@ -33,6 +33,7 @@
 }
 
 .cartao-pokemon .cartao-imagem-capa img {
+    min-width: 430px;
     max-width: 430px;
     max-height: 720px;
     border-radius: 10px;   
