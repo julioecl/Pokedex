@@ -35,7 +35,7 @@
 .cartao-pokemon .cartao-imagem-capa img {
     min-width: 430px;
     max-width: 430px;
-    max-height: 720px;
+    max-height: 722px;
     border-radius: 10px;   
 }
 
@@ -68,7 +68,7 @@
     border-bottom: 1px solid #c3c4c5;
     padding: 0 0 5px;
     margin-bottom: 5px; 
-    font-size: 15px;
+    font-size: 15px;    
 }
 
 .cartao-pokemon.aberto {
@@ -103,4 +103,16 @@
 
 .tipo-inseto {
     background-color: #aaa196;
+}
+
+.tipo-pedra {
+    background-color: #a38c21;
+}
+
+.tipo-lutador {
+    background-color: #d56723;
+}
+
+.tipo-psiquico {
+    background-color: #f366b9;
 }

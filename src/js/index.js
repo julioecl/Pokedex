@@ -1,10 +1,3 @@
-/* 1 - selecionar o pokemom desejado;
-2 - chamar a imagem dele no cartão e na listagem;
-3 - importar dados da tabela de pokemom da planilha;
-Nome, número, tipo, status, habilidades.
-4 - mudar a cor conforme o tipo;
-5 - evento de clique.
-*/
 const listaSelecaoPokemons = document.querySelectorAll('.pokemon')
 const pokemonsCard = document.querySelectorAll('.cartao-pokemon')
 
